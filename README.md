@@ -6,7 +6,9 @@ I used to spend hours recording and editing videos in Screen Studio. Now, I can 
 
 > Storyboard-first approach
 
-The hardest part of a product video is matching the visuals to what you're saying. With a storyboard, you settle the
+The hardest part of a product video is matching the visuals to what you're saying. 
+
+With a storyboard, you settle the
 story before you record, so you only have to talk. Your agent handles the visuals and the editing.
 
 ## Skills
