@@ -1,6 +1,6 @@
 # Video Skills
 
-> Make videos about your product 10x faster.
+> Make great videos about your product 10x faster.
 
 Make great videos just by talking over your notes.
 
