@@ -2,7 +2,7 @@
 
 > Make great videos about your product 10x faster.
 
-Make great videos just by talking over your notes.
+I used to spend hours recording and editing videos in Screen Studio. Now, I can make a video in 30 minutes.
 
 > Storyboard-first approach
 
